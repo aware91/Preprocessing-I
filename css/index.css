@@ -395,3 +395,34 @@ footer {
   font-size: 1.5rem;
   margin: 1%;
 }
+.contact {
+  width: 90%;
+  margin: 0% auto;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-top: 4%;
+}
+.contact h1 {
+  font-size: 3rem;
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+.contact address {
+  font-size: 1.6rem;
+  width: 45%;
+}
+.contact div {
+  font-size: 1.6rem;
+  width: 45%;
+}
+.contact ul {
+  width: 90%;
+  margin: 0% auto;
+  display: flex;
+  flex-flow: row wrap;
+  font-size: 1.6rem;
+  justify-content: space-between;
+}
